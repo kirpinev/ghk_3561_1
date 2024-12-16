@@ -47,7 +47,7 @@ export const App = () => {
               alt="Карта для ребенка"
               style={{ width: "85%", borderRadius: "16px" }}
             />
-            <div style={{ display: "flex", justifyContent: "space-around" }}>
+            <div style={{ display: "flex", justifyContent: "space-between" }}>
               <div>
                 <Typography.Text
                   tag="p"
@@ -58,7 +58,7 @@ export const App = () => {
                 </Typography.Text>
                 <Typography.Text
                   tag="p"
-                  view="secondary-medium"
+                  view="primary-small"
                   color="secondary"
                   style={{ marginBottom: 0 }}
                 >
@@ -75,7 +75,7 @@ export const App = () => {
                 </Typography.Text>
                 <Typography.Text
                   tag="p"
-                  view="secondary-medium"
+                  view="primary-small"
                   color="secondary"
                   style={{ marginBottom: 0 }}
                 >
@@ -117,7 +117,7 @@ export const App = () => {
                 </Typography.Text>
                 <Typography.Text
                   tag="p"
-                  view="secondary-medium"
+                  view="primary-small"
                   color="secondary"
                   style={{ marginBottom: 0 }}
                 >
@@ -144,7 +144,7 @@ export const App = () => {
                 </Typography.Text>
                 <Typography.Text
                   tag="p"
-                  view="secondary-medium"
+                  view="primary-small"
                   color="secondary"
                   style={{ marginBottom: 0 }}
                 >
@@ -171,7 +171,7 @@ export const App = () => {
                 </Typography.Text>
                 <Typography.Text
                   tag="p"
-                  view="secondary-medium"
+                  view="primary-small"
                   color="secondary"
                   style={{ marginBottom: 0 }}
                 >
